@@ -1,0 +1,5 @@
+pymongo>=4.6
+python-telegram-bot>=21.0
+streamlit>=1.30
+plotly>=5.18
+pandas>=2.0
